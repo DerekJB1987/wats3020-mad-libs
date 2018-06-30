@@ -19,13 +19,13 @@ let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel)
 let authorName = prompt('What is your full name?');
 
 // TODO: A variable named "adjective1" for a word used to describe something.
-let adjective1 = prompt('Give me a word describe something:');
+let adjective1 = prompt('Give me a word to describe something:');
 
 // TODO: A variable named "vehicle" for a mode of transation (e.g. plane, boat, etc.).
-let vehicle = prompt('What is your preferred vehcile for transportation?');
+let vehicle = prompt('What is your preferred vehicle for transportation?');
 
 // TODO: A variable named "vehiclePart" for a part of the vehicle you just named.
-let vehiclePart = prompt('Name a part of the vehicle choosen above:');
+let vehiclePart = prompt('Name a part of your preferred vehicle:');
 
 // TODO: A variable named "parking" for a location where you park the vehicle you just named.
 let parking = prompt('Where do you park your vehicle?');
@@ -46,7 +46,7 @@ let adjective2 = prompt('Give me a word to describe something:');
 let adjective3 = prompt('Give me a word to describe something:');
 
 // TODO: A variable named "color" for the name of a color.
-let color = prompt('Give me the name for a color:');
+let color = prompt('Give me the name of a color:');
 
 // TODO: A variable named "familyMember" for the name of a family relationship (e.g. sister, father, etc.).
 let familyMember = prompt('What is a name of a family member?');
@@ -67,7 +67,7 @@ let bodyPart3 = prompt('What is the name of another body part?');
 let thing = prompt('Give me an object:');
 
 // TODO: A variable named "thing2" for an object you might give somebody you love.
-let thing2 = prompt('What is an object you might five somebody you love?');
+let thing2 = prompt('What is an object you might give somebody you love?');
 
 // TODO: A variable named "thing3" for an object you might give somebody you like.
 let thing3 = prompt('What is an object you might give somebody you like?');
@@ -76,7 +76,7 @@ let thing3 = prompt('What is an object you might give somebody you like?');
 let adjective4 = prompt('Give me a word to describe your vehicle:')
 
 // TODO: A variable named "adjective5" for a word used to describe the vehicle.
-let adjective5 = prompt('Give me another word to descrive your vehicle:');
+let adjective5 = prompt('Give me another word to describe your vehicle:');
 
 ////////////////////////////////////////////////////////////////////////
 // Section Numbers
